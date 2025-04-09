@@ -6,7 +6,6 @@ This is an Tech Quiz application that has been enhanced with Cypress for both co
 
 ## Table of Contents
 
-- [Features](#Features)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
